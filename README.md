@@ -6,7 +6,7 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-10-12. Continuously updated.
+> Star counts verified via GitHub API on 2026-10-26. Continuously updated.
 
 ## 条目
 
@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：自媒体洗稿 / 代写 / 账号代运营——按账号收代运营费，或按篇收爆文代写费。
 
-**来源**：[iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) · ⭐2069 · 更新于 2026-10-12
+**来源**：[iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) · ⭐2148 · 更新于 2026-10-26
 
 ### rudra496/StealthHumanizer
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：内容团队润色服务——接海外内容团队、跨境卖家的英文 listing/博客润色单，按量收费。
 
-**来源**：[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) · ⭐167 · 更新于 2026-10-09
+**来源**：[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) · ⭐188 · 更新于 2026-10-25
 
 ### lynote-ai/humanize-text
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：把这条"结构改写"管线封装成自己的内容生产工具，对外提供 AI 内容人性化代处理服务；方法论全部公开，也可做成课程或咨询。
 
-**来源**：[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) · ⭐3350 · 更新于 2026-10-08
+**来源**：[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) · ⭐3448 · 更新于 2026-10-26
 
 ### Wechat-ggGitHub/chinese-ai-humanizer
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：中文短视频口播代写 / 润色服务——把这个 skill 接进自己的 Agent 写稿管线，按条或按账号收润色费；"稿子不像 AI 写的"本身就是代运营的差异化卖点。
 
-**来源**：[Wechat-ggGitHub/chinese-ai-humanizer](https://github.com/Wechat-ggGitHub/chinese-ai-humanizer) · ⭐82 · 更新于 2026-08-23
+**来源**：[Wechat-ggGitHub/chinese-ai-humanizer](https://github.com/Wechat-ggGitHub/chinese-ai-humanizer) · ⭐87 · 更新于 2026-10-25
 
 ### ilien-dev/quiron
 
@@ -73,7 +73,7 @@
 
 **怎么用它搞钱**：给英文内容团队做"去 AI 味质检"——按篇提供"改写 + 人类度评分报告"，比单纯改写多一层可交付的证据；也可打包进英文内容代写服务里提价。
 
-**来源**：[ilien-dev/quiron](https://github.com/ilien-dev/quiron) · ⭐57 · 更新于 2026-09-25
+**来源**：[ilien-dev/quiron](https://github.com/ilien-dev/quiron) · ⭐60 · 更新于 2026-10-16
 
 ### sepia（@shenxiankk 去 AI 味写作 skill）
 
@@ -99,7 +99,7 @@
 
 **怎么用它搞钱**：接英文博客/脚本润色单——把"120 项检测报告"作为交付物，比纯改写多一层证据，单价更高。
 
-**来源**：[FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) · ⭐43 · 更新于 2026-10-12 · [X 原帖 @SimonHoiberg](https://x.com/SimonHoiberg/status/2109612095763263987)
+**来源**：[FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) · ⭐84 · 更新于 2026-10-23 · [X 原帖 @SimonHoiberg](https://x.com/SimonHoiberg/status/2109612095763263987)
 
 ### @Sukiea1008 个人风格去 AI 味闭环（AI 输出 → 精修 → 规则反哺）
 
@@ -152,7 +152,7 @@
 
 **怎么用它搞钱**：按号做"风格复现 + 去 AI 味"管线搭建服务；代写业务的差异化话术："稿子不像 AI 写的，还像你写的"。
 
-**来源**：[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) · ⭐867 · 更新于 2026-09-17
+**来源**：[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) · ⭐918 · 更新于 2026-10-25
 
 ### lynote-ai/humanize-text-skill
 
@@ -165,7 +165,7 @@
 
 **怎么用它搞钱**：把检测 + 改写 skill 接进内容代运营管线；"去 AI 味质检报告"作为交付物，给代写服务提价。
 
-**来源**：[lynote-ai/humanize-text-skill](https://github.com/lynote-ai/humanize-text-skill) · ⭐242 · 更新于 2026-07-07
+**来源**：[lynote-ai/humanize-text-skill](https://github.com/lynote-ai/humanize-text-skill) · ⭐242 · 更新于 2026-10-25
 
 ## 收录标准
 
@@ -228,7 +228,7 @@
 
 **怎么用它搞钱**：接改稿单——"Wikipedia 级特征改写 + 明细报告"，5.6 万 star 的背书就是信任状；搭配个人写作样本做"风格定制去味"，溢价空间大。
 
-**来源**：[blader/humanizer](https://github.com/blader/humanizer) · ⭐56308 · MIT · 更新于 2026-09-28（star 与更新时间均经 API 核验） · X 推荐：[@mowangaih（2026-10-13）](https://x.com/mowangaih/status/2109831516062711913) · 原帖出处
+**来源**：[blader/humanizer](https://github.com/blader/humanizer) · ⭐60591 · MIT · 更新于 2026-10-26（star 与更新时间均经 API 核验） · X 推荐：[@mowangaih（2026-10-13）](https://x.com/mowangaih/status/2109831516062711913) · 原帖出处
 
 ### Humanizer-zh（blader/humanizer 汉化版，专治中文 AI 腔）
 
@@ -241,7 +241,7 @@
 
 **怎么用它搞钱**：中文改稿服务 + 改动明细表当交付证据，按篇收费；打包进代写 / 代运营管线，改写前后对照表是天然信任状。
 
-**来源**：[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) · ⭐19545 · MIT · 更新于 2026-09-23（star 与更新时间均经 API 核验） · X 推荐：[@XiaohuiAI666（2026-10-13）](https://x.com/XiaohuiAI666/status/2109875154763534593) · 原帖出处
+**来源**：[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) · ⭐20874 · MIT · 更新于 2026-10-26（star 与更新时间均经 API 核验） · X 推荐：[@XiaohuiAI666（2026-10-13）](https://x.com/XiaohuiAI666/status/2109875154763534593) · 原帖出处
 
 ## 投稿
 
@@ -261,7 +261,101 @@
 
 **来源**：[@xionghuanwei（2026-10-13）](https://x.com/xionghuanwei/status/2109946698814382579) · 原帖出处
 
+### @0xshimei sanyue.ai 去 AI 味写作器（免费中英双语工具）
+
+**核心提炼**
+- 解决什么问题：AI 稿人机味重、千篇一律，严重的会被读者拉黑。作者把自己长期调教 AI 的提示词做成免费工具。
+- 去掉的模板清单："不是 A 而是 B""值得注意的是""一句话理解""总的来说"，以及到处乱插的破折号——对照自查时可直接拿这张表扫一遍。
+- 九种写法：短贴、快讯、实测、工具发现、清单、长文、产品介绍、币圈点评、改写；另据评论区链接卡片（非正文）补充：按文本出稿、AI 味检查、自动改稿、结尾备选。
+- 什么时候用 / 常见坑：作者自己在评论区承认，反模板用的人多了也会变成新模板；工具是个人训练提示词的累积，不是万能——用前仍需自己调教、审稿。
+
+**适用场景**：中英双语写短贴 / 快讯 / 长文的创作者；想快速压一遍 AI 味的人。
+
+**怎么用它搞钱**：把"去味 + 改稿"做成按篇收费的快改服务；九种写法对应九种内容产品线，接代写单时按体裁报价。
+
+**来源**：[@0xshimei（2026-10-25）](https://x.com/0xshimei/status/2114299150959587643) · 原帖出处
+
+### @Lmin0711 最低档模型 + humanizer 实操（去 AI 味先调参数再谈文笔）
+
+**核心提炼**
+- 解决什么问题：直觉以为推理越强写得越好，其实强推理反而带来模板感和套话。同一讨论串里 @CYong39513 一句话点题："模型记得开最低档，文笔直接拉满"；@hodu382759 跟进："去 AI 味先调参数再谈文笔"。
+- 核心用法（2 步）：1) 模型开最低档 / 低推理档，减少过度推理带来的模板感；2) 再上 humanizer 类 skill，删掉"首先、其次、综上所述"这类 AI 惯用连接词。
+- 关键边界：光换模型、光装 skill 都不够——真正去味还是要靠具体细节和口语节奏；长文里低档模型可能出现逻辑断裂，需要手动补一段衔接（作者原帖结尾自问，尚未有结论，照此留作待验证点）。
+
+**适用场景**：用低档模型批量出稿、再压一遍去味的人；写长文时怕模板感又怕断逻辑的创作者。
+
+**怎么用它搞钱**：把"低档出稿 + humanizer 清洗 + 人工补衔接"做成标准化代写管线，成本比高档模型低、交付更快，按篇收费有价格优势。
+
+**来源**：[@Lmin0711（2026-10-25）](https://x.com/Lmin0711/status/2114322982734614979) · 原帖出处（讨论串：@CYong39513、@hodu382759）
+
+### @king1821661 素材库→草稿箱去味流水线（只点发送）
+
+**核心提炼**
+- 解决什么问题：发稿链路散，人工环节多。它把整条线串成自动化流水线，人只做最后"点发送"。
+- 核心用法（5 步）：1) 定时抓取内容进素材库；2) 想发稿时指定一篇；3) hermes 调用 codex 写稿；4) 调 skill 去 AI 味；5) 调 skill 用 codex 生成封面图插图，再调 skill 排版推草稿箱。
+- 什么时候用 / 常见坑：作者自述该流水线的瓶颈在出图环节（"出图不稳定"），而非去味环节——搭同款流水线时先攻出图稳定性，去味 skill 反而是最稳的一环。
+
+**适用场景**：日更 / 多号发稿的内容团队；想把发稿压成"一键"的人。
+
+**怎么用它搞钱**：把这条流水线打包成代运营服务——素材库 + 写稿 + 去味 + 配图 + 排版全包，按账号收月费；"人只点发送"是很好的销售话术。
+
+**来源**：[@king1821661（2026-10-25）](https://x.com/king1821661/status/2114325115488043271) · 原帖出处
+
+### @HunziDaily DeepSeek 去 AI 味"真人化说话"铁律（文末咒语）
+
+**核心提炼**
+- 解决什么问题：DeepSeek 生成内容机器味重。作者给出一套文末追加的"咒语"，宣称适用于朋友圈、小红书、公众号、推特文案。
+- 核心用法（4 条铁律，原文结构）：1) 严禁"不可否认""正如前文所述""综上所述""如同一把双刃剑""让我们拭目以待"等空洞废话；2) 长句全拆成大白话短句，多用动词，少用虚头巴脑的形容词；3) 允许少量口语化设问、适度情绪自嘲、贴近生活的具象细节；4) 写完在脑袋里读一遍，像新闻联播或公关稿就打回重写。
+- 什么时候用 / 常见坑：作者宣称"机器味瞬间归零""互动率翻倍"未经独立核实，别当效果承诺；评论区提醒：严肃话题短句太多会显得散，专业度与口语感要自己平衡。
+
+**适用场景**：用 DeepSeek 写社交文案、朋友圈 / 公众号短内容的人。
+
+**怎么用它搞钱**：把这套铁律做成 DeepSeek 专用改稿模板，按场景（朋友圈 / 小红书 / 公众号）分版本卖模板或接改稿单。
+
+**来源**：[@HunziDaily（2026-10-25）](https://x.com/HunziDaily/status/2114376436123685135) · 原帖出处
+
+### @dustADD 先写判断，AI 只做辅助（提示词补不上判断）
+
+**核心提炼**
+- 解决什么问题：Grok 普及后评论区多了很多"每条都在认真回应、读完却感觉没人跟自己说话"的模板回复。作者认为这不只是措辞问题：一段话谁都能发、谁都不用负责，就是 AI 味的本质。
+- 核心用法（作者做法）：1) 先把自己的判断写下来，再让 AI 查资料、挑反例、检查逻辑；2) AI 提的修改，得能解释为什么接受；3) 观点和最后一句留给自己写；4) 自检三问：你赞同哪一点？哪里跟你的经历对不上？愿不愿意为这个看法解释两句？
+- 什么时候用 / 常见坑：提示词可以去掉套话、调整语气，却补不上本来就没做出的判断——"先写判断"是前置工序，不是后处理。评论区补充的检测启发：看对方追问一句还能不能接得住，没自己想过的一追问就露馅。
+
+**适用场景**：写评论、回复、观点帖的人；做学习产品、怕学生"交出流畅作业却没想明白"的教育者。
+
+**怎么用它搞钱**：做"观点帖代写"时把"先访谈出判断、再成稿"当流程卖——客户出判断、你出成稿，按篇收费；这套自检三问也可做成审稿服务。
+
+**来源**：[@dustADD（2026-10-25）](https://x.com/dustADD/status/2114380757343047681) · 原帖出处
+
+### lynote-ai/best-humanizer-handbook（去 AI 味决策手册）
+
+**核心提炼**
+- 解决什么问题：工具一堆，不知道选哪个、怎么改才对。它不是又一个改写工具，而是一本决策手册：先讲清"humanized text"到底是什么意思，再给选型与工作流。
+- 核心用法（5 章）：第 1 章 AI 文为什么显机械；第 2 章常见问题与人工急救；第 3 章免费工具盘点与主流产品横向比较（按场景、价格、优势、风险）；第 4 章按场景分流（SEO、社媒、学术草稿、多语言）；第 5 章开源 humanizer skill 与本地工作流；另附 Q&A 排障。
+- 什么时候用 / 常见坑：手册自己划的边界值得记：改写前先标出绝不能动的部分（事实、引用、名字、价格、数据、SEO 关键词、观点强度），改完按编辑标准复核意义、语气、证据、原创性；它不承诺任何工具能让人写的东西"不可检测"。
+
+**适用场景**：刚入行、面对一堆 humanizer 工具不知从何下手的人；要给团队定去味工作流的内容负责人。
+
+**怎么用它搞钱**：按手册给客户做"工具选型 + 工作流搭建"咨询，按次收费；手册里的场景分流表可直接改成自己的服务套餐（SEO 版 / 社媒版 / 学术版）。
+
+**来源**：[lynote-ai/best-humanizer-handbook](https://github.com/lynote-ai/best-humanizer-handbook) · ⭐367 · MIT · 更新于 2026-10-24
+
+### numen-tech/slopornot（Agent 用双 skill：改写 + 本地检测）
+
+**核心提炼**
+- 解决什么问题：Agent 改写完不知道去没去干净，还得另找在线检测器。它把改写和检测做进同一个插件包，覆盖 Claude、Codex、Cursor、Gemini CLI 等多个 Agent。
+- 核心用法（2 个 skill）：1) agentic-humanizer：5 遍定向改写流程（清 AI 写作模式、语言变体与语气对齐、阅读级别调整等），支持英语 + 6 种其他语言，可存偏好、可按写作样本匹配语气；2) slop-check：一键本地 AI 检测（文本 / 图片、易读性、清理前后对比），不依赖在线检测网站；Pro 版加测 AI 分数与清理总结。
+- 什么时候用 / 常见坑：改写核心功能不需要 Pro 版；检测打分目前仅英文；与本库已收录的 quiron 同属"改写 + 测量"路线，本条的新意在多 Agent 插件包形态 + 本地检测 + 语气样本匹配，不重复收。
+
+**适用场景**：多 Agent 混用的开发者；需要"改写 + 本地检测"闭环的内容团队。
+
+**怎么用它搞钱**：给内容团队搭"改写 + 本地检测"Agent 插件包，按团队收搭建费；检测报告可作改稿服务的交付证据。
+
+**来源**：[numen-tech/slopornot](https://github.com/numen-tech/slopornot) · ⭐56 · MIT · 更新于 2026-10-24
+
 ## 更新日志
+
+- 2026-10-26：新增 7 条——X 5 条（@0xshimei sanyue.ai 去 AI 味写作器、@Lmin0711 最低档模型 + humanizer 实操、@king1821661 素材库→草稿箱去味流水线、@HunziDaily DeepSeek 真人化说话铁律、@dustADD 先写判断；作者宣称的效果均已标注未核实）；GitHub 2 个（lynote-ai/best-humanizer-handbook 367★、numen-tech/slopornot 56★，star 与更新时间均经 API 核验）；另刷新 10 个老条目 star（AIWriteX 2148、StealthHumanizer 188、humanize-text 3448、chinese-ai-humanizer 87、quiron 60、OUBIGFA 918、FeedHive 84、blader/humanizer 60591、Humanizer-zh 20874，humanize-text-skill 242 不变）
 
 - 2026-10-13：新增 1 条——X（@xionghuanwei AI 率双阈值质检工作流：发文前六维数据核验清单、AI 率 30%/25% 硬阈值、阅读完成率 40% 健康线，附官方治理依据）
 
