@@ -6,7 +6,7 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-11-08. Continuously updated.
+> Star counts verified via GitHub API on 2026-11-21. Continuously updated.
 
 ## 条目
 
@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：自媒体洗稿 / 代写 / 账号代运营——按账号收代运营费，或按篇收爆文代写费。
 
-**来源**：[iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) · ⭐2223 · 更新于 2026-11-05
+**来源**：[iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) · ⭐2301 · 更新于 2026-11-20
 
 ### rudra496/StealthHumanizer
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：内容团队润色服务——接海外内容团队、跨境卖家的英文 listing/博客润色单，按量收费。
 
-**来源**：[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) · ⭐205 · 更新于 2026-11-06
+**来源**：[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) · ⭐228 · 更新于 2026-11-20
 
 ### lynote-ai/humanize-text
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：把这条"结构改写"管线封装成自己的内容生产工具，对外提供 AI 内容人性化代处理服务；方法论全部公开，也可做成课程或咨询。
 
-**来源**：[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) · ⭐3485 · 更新于 2026-10-22
+**来源**：[lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) · ⭐3522 · 更新于 2026-11-20
 
 ### Wechat-ggGitHub/chinese-ai-humanizer
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：中文短视频口播代写 / 润色服务——把这个 skill 接进自己的 Agent 写稿管线，按条或按账号收润色费；"稿子不像 AI 写的"本身就是代运营的差异化卖点。
 
-**来源**：[Wechat-ggGitHub/chinese-ai-humanizer](https://github.com/Wechat-ggGitHub/chinese-ai-humanizer) · ⭐87 · 更新于 2026-08-23
+**来源**：[Wechat-ggGitHub/chinese-ai-humanizer](https://github.com/Wechat-ggGitHub/chinese-ai-humanizer) · ⭐90 · 更新于 2026-11-17
 
 ### ilien-dev/quiron
 
@@ -73,7 +73,7 @@
 
 **怎么用它搞钱**：给英文内容团队做"去 AI 味质检"——按篇提供"改写 + 人类度评分报告"，比单纯改写多一层可交付的证据；也可打包进英文内容代写服务里提价。
 
-**来源**：[ilien-dev/quiron](https://github.com/ilien-dev/quiron) · ⭐65 · 更新于 2026-11-05
+**来源**：[ilien-dev/quiron](https://github.com/ilien-dev/quiron) · ⭐67 · 更新于 2026-11-20
 
 ### sepia（@shenxiankk 去 AI 味写作 skill）
 
@@ -99,7 +99,7 @@
 
 **怎么用它搞钱**：接英文博客/脚本润色单——把"120 项检测报告"作为交付物，比纯改写多一层证据，单价更高。
 
-**来源**：[FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) · ⭐101 · 更新于 2026-10-12 · [X 原帖 @SimonHoiberg](https://x.com/SimonHoiberg/status/2109612095763263987)
+**来源**：[FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) · ⭐112 · 更新于 2026-11-20 · [X 原帖 @SimonHoiberg](https://x.com/SimonHoiberg/status/2109612095763263987)
 
 ### @Sukiea1008 个人风格去 AI 味闭环（AI 输出 → 精修 → 规则反哺）
 
@@ -152,7 +152,7 @@
 
 **怎么用它搞钱**：按号做"风格复现 + 去 AI 味"管线搭建服务；代写业务的差异化话术："稿子不像 AI 写的，还像你写的"。
 
-**来源**：[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) · ⭐958 · 更新于 2026-09-17
+**来源**：[OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) · ⭐989 · 更新于 2026-11-20
 
 ### lynote-ai/humanize-text-skill
 
@@ -165,7 +165,7 @@
 
 **怎么用它搞钱**：把检测 + 改写 skill 接进内容代运营管线；"去 AI 味质检报告"作为交付物，给代写服务提价。
 
-**来源**：[lynote-ai/humanize-text-skill](https://github.com/lynote-ai/humanize-text-skill) · ⭐243 · 更新于 2026-07-07
+**来源**：[lynote-ai/humanize-text-skill](https://github.com/lynote-ai/humanize-text-skill) · ⭐245 · 更新于 2026-11-19
 
 ## 收录标准
 
@@ -228,7 +228,7 @@
 
 **怎么用它搞钱**：接改稿单——"Wikipedia 级特征改写 + 明细报告"，5.6 万 star 的背书就是信任状；搭配个人写作样本做"风格定制去味"，溢价空间大。
 
-**来源**：[blader/humanizer](https://github.com/blader/humanizer) · ⭐65996 · MIT · 更新于 2026-10-28（star 与更新时间均经 API 核验） · X 推荐：[@mowangaih（2026-10-13）](https://x.com/mowangaih/status/2109831516062711913) · 原帖出处
+**来源**：[blader/humanizer](https://github.com/blader/humanizer) · ⭐71674 · MIT · 更新于 2026-11-21（star 与更新时间均经 API 核验） · X 推荐：[@mowangaih（2026-10-13）](https://x.com/mowangaih/status/2109831516062711913) · 原帖出处
 
 ### Humanizer-zh（blader/humanizer 汉化版，专治中文 AI 腔）
 
@@ -241,7 +241,7 @@
 
 **怎么用它搞钱**：中文改稿服务 + 改动明细表当交付证据，按篇收费；打包进代写 / 代运营管线，改写前后对照表是天然信任状。
 
-**来源**：[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) · ⭐22212 · MIT · 更新于 2026-09-23（star 与更新时间均经 API 核验） · X 推荐：[@XiaohuiAI666（2026-10-13）](https://x.com/XiaohuiAI666/status/2109875154763534593) · 原帖出处
+**来源**：[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) · ⭐23433 · MIT · 更新于 2026-11-21（star 与更新时间均经 API 核验） · X 推荐：[@XiaohuiAI666（2026-10-13）](https://x.com/XiaohuiAI666/status/2109875154763534593) · 原帖出处
 
 ## 投稿
 
@@ -338,7 +338,7 @@
 
 **怎么用它搞钱**：按手册给客户做"工具选型 + 工作流搭建"咨询，按次收费；手册里的场景分流表可直接改成自己的服务套餐（SEO 版 / 社媒版 / 学术版）。
 
-**来源**：[lynote-ai/best-humanizer-handbook](https://github.com/lynote-ai/best-humanizer-handbook) · ⭐367 · MIT · 更新于 2026-06-16
+**来源**：[lynote-ai/best-humanizer-handbook](https://github.com/lynote-ai/best-humanizer-handbook) · ⭐364 · MIT · 更新于 2026-11-19
 
 ### numen-tech/slopornot（Agent 用双 skill：改写 + 本地检测）
 
@@ -351,7 +351,7 @@
 
 **怎么用它搞钱**：给内容团队搭"改写 + 本地检测"Agent 插件包，按团队收搭建费；检测报告可作改稿服务的交付证据。
 
-**来源**：[numen-tech/slopornot](https://github.com/numen-tech/slopornot) · ⭐59 · MIT · 更新于 2026-07-02
+**来源**：[numen-tech/slopornot](https://github.com/numen-tech/slopornot) · ⭐59 · MIT · 更新于 2026-11-18
 
 ### @KobinFlow 自媒体流水线里的去味环节（黑名单自查 + 中英分流 + 流水线站位）
 
@@ -407,7 +407,7 @@
 
 **怎么用它搞钱**：中文代写 / 润色服务——把"保事实、只删套话"写进交付标准，按篇或按号收费，"改完可直接发"就是卖点。
 
-**来源**：[MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) · ⭐2526 · MIT · 更新于 2026-11-07 · X 原帖：[@realzoeus（2026-10-26）](https://x.com/realzoeus/status/2114614706174579068)
+**来源**：[MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) · ⭐2725 · MIT · 更新于 2026-11-20 · X 原帖：[@realzoeus（2026-10-26）](https://x.com/realzoeus/status/2114614706174579068)
 
 ### @KimYx0207 Humanizer 终轮改稿三步（功能更新稿场景）
 
@@ -434,7 +434,7 @@
 
 **怎么用它搞钱**：把"Gemini 导入 + 规则复述核对 + review/refactor + 终检四问"做成可交付的改稿工作流，帮客户或团队搭 Gemini 改稿管线，按次或按号收费。
 
-**来源**：[@maverick156239（2026-10-26，X Article）](https://x.com/maverick156239/status/2114628410882625784) · Sepia 上游：[Nanako0129/sepia](https://github.com/Nanako0129/sepia) · ⭐3678 · MIT · 更新于 2026-11-03；Sepia skill 本身本库已收录（@shenxiankk 条目），本条新意在 Gemini 导入实操，不重复收 skill 本体
+**来源**：[@maverick156239（2026-10-26，X Article）](https://x.com/maverick156239/status/2114628410882625784) · Sepia 上游：[Nanako0129/sepia](https://github.com/Nanako0129/sepia) · ⭐3912 · MIT · 更新于 2026-11-20；Sepia skill 本身本库已收录（@shenxiankk 条目），本条新意在 Gemini 导入实操，不重复收 skill 本体
 
 ### @Lonely__MH AI 写作去 AI 味四步法（口述想法 → 大纲 → 风格成稿 → 复查定稿）
 
@@ -460,7 +460,7 @@
 
 **怎么用它搞钱**：接"AI 味检测 + 最小改动精修"服务，检测报告 + 复测报告当交付证据；按号做"去 AI 味质检"打包进代写管线。
 
-**来源**：[@lieflat_3（2026-11-05，X Article）](https://x.com/lieflat_3/status/2118355780474937831) · Skill 开源：[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) · ⭐6819 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-05（star 与更新时间均经 API 核验）
+**来源**：[@lieflat_3（2026-11-05，X Article）](https://x.com/lieflat_3/status/2118355780474937831) · Skill 开源：[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) · ⭐8389 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-21（star 与更新时间均经 API 核验）
 
 ### @27huff 把"AI 味"拆成 21 张规则卡（可视化调教法）
 
@@ -512,7 +512,7 @@
 
 **怎么用它搞钱**：中文代写"活人感"溢价；按号做"AI 写稿 + 活人感精修"打包服务。
 
-**来源**：[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) · ⭐4464 · MIT · 更新于 2026-08-11（star 与更新时间均经 API 核验）
+**来源**：[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) · ⭐4684 · MIT · 更新于 2026-11-21（star 与更新时间均经 API 核验）
 
 ### theclaymethod/unslop
 
@@ -525,7 +525,7 @@
 
 **怎么用它搞钱**：英文代写 / 代运营的"去味 + 保真"质检环节；按 voice 定制改写服务。
 
-**来源**：[theclaymethod/unslop](https://github.com/theclaymethod/unslop) · ⭐1006 · 暂无 LICENSE（API 未识别） · 更新于 2026-09-07（star 与更新时间均经 API 核验）
+**来源**：[theclaymethod/unslop](https://github.com/theclaymethod/unslop) · ⭐1191 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-20（star 与更新时间均经 API 核验）
 
 ### mshumer/unslop
 
@@ -538,7 +538,7 @@
 
 **怎么用它搞钱**：按领域定制"去味 skill"交付；接"AI 内容同质化诊断"单。
 
-**来源**：[mshumer/unslop](https://github.com/mshumer/unslop) · ⭐561 · MIT · 更新于 2026-03-18（star 与更新时间均经 API 核验）
+**来源**：[mshumer/unslop](https://github.com/mshumer/unslop) · ⭐571 · MIT · 更新于 2026-11-20（star 与更新时间均经 API 核验）
 
 ### MohamedAbdallah-14/unslop
 
@@ -551,7 +551,7 @@
 
 **怎么用它搞钱**：简历 / 求职信"去 AI 味精修"按份收费；英文商务写作代运营的改稿环节。
 
-**来源**：[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) · ⭐182 · MIT · 更新于 2026-11-02（star 与更新时间均经 API 核验）
+**来源**：[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) · ⭐195 · MIT · 更新于 2026-11-20（star 与更新时间均经 API 核验）
 
 ### asavvin-pixel/unslop
 
@@ -564,7 +564,7 @@
 
 **怎么用它搞钱**：英文深度稿"结构级去味"服务；按 voice 校准的个人写作 skill 定制。
 
-**来源**：[asavvin-pixel/unslop](https://github.com/asavvin-pixel/unslop) · ⭐86 · MIT · 更新于 2026-07-14（star 与更新时间均经 API 核验）
+**来源**：[asavvin-pixel/unslop](https://github.com/asavvin-pixel/unslop) · ⭐89 · MIT · 更新于 2026-11-18（star 与更新时间均经 API 核验）
 
 ### woerndl/unsloppify
 
@@ -577,7 +577,7 @@
 
 **怎么用它搞钱**：Agent 工作流"去味默认配置"搭建服务；代运营管线的常驻去味层。
 
-**来源**：[woerndl/unsloppify](https://github.com/woerndl/unsloppify) · ⭐29 · 暂无 LICENSE（API 未识别） · 更新于 2026-10-23（star 与更新时间均经 API 核验）
+**来源**：[woerndl/unsloppify](https://github.com/woerndl/unsloppify) · ⭐31 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-17（star 与更新时间均经 API 核验）
 
 ### badmuriss/unslop
 
@@ -590,7 +590,7 @@
 
 **怎么用它搞钱**：多语言代写去味服务；"AI 味审计打分报告"当交付物。
 
-**来源**：[badmuriss/unslop](https://github.com/badmuriss/unslop) · ⭐23 · CC BY-SA 4.0（README 标注，API 未识别） · 更新于 2026-10-01（star 与更新时间均经 API 核验）
+**来源**：[badmuriss/unslop](https://github.com/badmuriss/unslop) · ⭐23 · CC BY-SA 4.0（README 标注，API 未识别） · 更新于 2026-11-16（star 与更新时间均经 API 核验）
 
 ### @ZhaoZhaovfbc《GPT-6去AI味指令》17 条（先定风格，再改稿）
 
@@ -617,7 +617,7 @@
 
 **怎么用它搞钱**：公文 / 文档代写——"统计标准 + 清单验收"当交付证据，按篇或按套收费；给企事业单位搭"风格量化 + 自检"写作 skill，收搭建费。
 
-**来源**：[larashero3-dotcom/lieflat-gongwen](https://github.com/larashero3-dotcom/lieflat-gongwen) · ⭐2447 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-03（star 与更新时间均经 API 核验） · X 介绍：[@Rk1ngggg（2026-11-08）](https://x.com/Rk1ngggg/status/2119303603945123880) · 同作者后续 4 条回复仅浏览器侧读取
+**来源**：[larashero3-dotcom/lieflat-gongwen](https://github.com/larashero3-dotcom/lieflat-gongwen) · ⭐2656 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-21（star 与更新时间均经 API 核验） · X 介绍：[@Rk1ngggg（2026-11-08）](https://x.com/Rk1ngggg/status/2119303603945123880) · 同作者后续 4 条回复仅浏览器侧读取
 
 ### @alex_dezhou 先对齐再改的三段工作流（不要一上来就让模型直接改）
 
@@ -751,7 +751,164 @@
 
 **来源**：[@Nexuessy（2026-11-08）](https://x.com/Nexuessy/status/2119380182897156197) · 原帖出处；同作者第二帖：[@Nexuessy（2026-11-08）](https://x.com/Nexuessy/status/2119413685399798172)
 
+### @TuyetloanP81840（Miller）AI 短剧后期去廉价感：9 段素材剪成 4 分钟成片（声音、调色、字幕参数全公开）
+
+**核心提炼**
+- 解决什么问题：AI 短剧被划走常不是画面不好，是声音——音量忽大忽小、配乐盖住台词，拼起来像手机录像、有"廉价感"。案例：《醒醒，我饿了》第 4 集，9 段素材、46 个镜头、4 分 05 秒。
+- 核心用法（顺序）：先定剪辑，再调色，最后混音；流程为体检→粗剪排序→声音→切点转场→画面→字幕→片头配乐→混音→导出复查。剪辑没定就去调色混音，后面每改一刀都要返工一次。
+- 时间不够先做三件：对白统一到 -16 LUFS（剪映一键"响度统一"）、有台词时配乐压到对白的三分之一、导出后手机外放听一遍。
+- 开剪前八项体检：头尾闪帧、脸/手/衣服变形瞬移、台词错漏、口型对不上、音量/底噪/爆音/角色音色不一、亮度冷暖差、模型自印字幕/乱码、段间衔接；问题分三类处理：剪掉（头尾/可删镜头）、后期修（音量/底噪/偏色/画幅/错字）、补抽（关键台词错、主角脸变、口型明显错），判断标准只有一句"观众会不会注意到"。
+- 配音：同期声能用就用（口型最准）；角色声音前后对不上、台词错得多再后期配音；工具为剪映朗读（最快）、IndexTTS 2.5（音色与情绪分开、可控时长）、音谷 SonicVale（多角色批量，每角色绑同一音色）。
+- 声音参数：对白 -16 LUFS（-14～-16 均可）、峰值不超过 -1 dB，配乐 -27 LUFS（比对白低 11），侧链压缩压得快 0.04 秒、回得慢 0.6 秒，片名卡配乐抬高一倍，结尾 4 秒淡出，成片 -16.2 LUFS、峰值 -1.4 dB；EQ 表：80 Hz 以下切掉、200 Hz 减 4 dB（浑）、250 Hz 减 3 dB（闷）、3 kHz 加 2～3 dB（提清晰）、3～4 kHz 减 3 dB（刺耳）、6～8 kHz 减齿音；降噪别开太猛，缩气口只缩句间过长空白、句内停顿不动。
+- 转场默认硬切，仅开头淡入 1.2 秒、过夜压黑（0.4 秒淡出＋0.3 秒黑场＋0.4 秒淡入）、结尾淡出 1.5 秒＋停 1 秒黑场；每段头尾各去 1 帧、声音头尾各加 0.03 秒淡入淡出。
+- 画面：16:9（1280×720）裁成 2.4:1（取 533 高窗口放大到 1920×800、上下补黑边成 1920×1080），每个镜头单独定裁切位置（先保眼睛、再保手上动作），裁切顺带去掉模型自印字幕；调色先统一（选基准镜头并排比，先明暗、再偏色、最后重点色）再套同一 LUT（80% 强度，手术室偏冷偏绿是剧情需要、不回调暖）；质感加轻微锐化 0.35＋很淡的颗粒（去塑料感、统一不同段质感）。
+- 字幕：有剧本用文稿匹配、无剧本先识别再逐句校对（同音错字例"骨头也错开了"被识别成"搓开了"），断句按意思、一行不超过 15 字，样式为 50 号思源黑体加粗、白字、1.8 像素深色描边，烧录版与无字幕版＋SRT 两版交付。
+- 片名卡单独做、不用 AI 生成文字（易错字变形），片头 3.75 秒黑底系列名＋片名＋集数，封面同一模板，发前手机检查。
+- Agent 交接：让 Agent 先体检、先出对照图，拿不准先问；附可复制的后期指令与"短剧剪辑师"技能包（miliagent.com/houqi）。另：音谷为 AGPL-3.0，商用需书面授权；声音克隆只用自己或明确授权的音色，克隆他人/明星声音即侵权。
+
+**适用场景**：AI 短剧成片总被说"廉价/像手机录像"的人；多段素材拼成片的短剧团队。
+
+**怎么用它搞钱**：接 AI 短剧后期单——"八项体检＋三件先做＋参数全公开"当交付清单，按集收费；"短剧剪辑师"技能包思路可做成自己的后期 SOP 产品。
+
+**来源**：[@TuyetloanP81840（2026-11-19，X Article）](https://x.com/TuyetloanP81840/status/2123328212700893554) · 原帖出处
+
+### @AJCreatesAI 超写实真人四视图资产表（角色资产一次定型）
+
+**核心提炼**
+- 解决什么问题：AI 短剧多镜一换角色就变脸。做法是一张图定死角色全部角度，后面每镜照着出。
+- 核心用法（完整提示词结构）：16:9 横构图、纯白无缝摄影棚背景、顶级商业肖像与时尚摄影质感、8k；左 1/3 为正面头部面部特写（微距感，真实皮肤毛孔微纹理、皮下肤色层次、唇纹与眼部高光，毫无 CG 感或磨皮塑料感）；右 2/3 并排三张全身——正面全身、严格 90° 正侧面、严格 180° 正背面，三者身体比例/身高尺度/头顶高度/鞋底接地面严格一致；全身视图的面部区域叠加纯白不透明实心遮盖（沿发际线/脸缘/下巴贴合，隐去五官），只留发型/耳朵/颈部与身体写实呈现——脸只认特写那一张，从源头断了多镜串脸的可能；全图柔光箱均匀布光，四区曝光/白平衡/色温/景深绝对统一。
+- 什么时候用 / 常见坑：开工前先做资产表，再分镜生成；帖尾附 Seedance API 推广（api.seedance.nz），为广告，与方法无关。
+
+**适用场景**：AI 短剧/漫剧开工前要做角色资产表的人；多镜角色总变脸的创作者。
+
+**怎么用它搞钱**：接角色资产表代做——"一图四视图"按角色收费；打包进短剧前期服务当标准交付物。
+
+**来源**：[@AJCreatesAI（2026-11-20）](https://x.com/AJCreatesAI/status/2123632420906000702) · 原帖出处
+
+### @iskunzhenbai 真人感手机摄影提示词（毛孔与微瑕才是真人证据）
+
+**核心提炼**
+- 解决什么问题：让 AI 人像像真人手机自拍，秘诀不是"更精致"，是"留瑕疵"。
+- 核心用法（模板分块）：①核心感觉：18-22 岁欧洲少女，白皙清透、小脸幼态、眼神灵动带一点魅惑、夏日阳光自拍感；②拍摄设定：真实 iPhone 后置主摄、RAW 原片质感、原相机直出、未经商业修图、不用过度美颜、9:16 竖屏、近距离自拍（手机距脸约 25 厘米）；③面部真实肌理：真实毛孔、细小皮肤纹理、面部绒毛、鼻翼纹理、阳光下绒毛轻微反光；④化妆后微瑕：鼻翼轻微卡粉、眼下粉底纹理、毛孔边缘残留粉底、局部底妆不均、淡痘印、浅痘坑、细小闭口——必须明显可见，但整体依然漂亮；⑤真实感收尾：真实手机锐化、真实肤色变化、真实皮肤反光、真实发丝、真实曝光，不要 CG 感、不要塑料感；⑥禁项：大脸、成熟、塑料皮肤、过度磨皮、AI 光滑脸等。
+- 同一模板另有一帖做动漫转真人（参考图为动漫角色宋玉，禁项加"动漫眼"），两帖合并计 1 条。
+- 什么时候用 / 常见坑：提示词原文前后有矛盾——先说"头上不要佩戴浅色宽檐草帽"，后又写"一束强烈自然阳光穿过帽檐"，照抄时需自行取舍；作者回复称"当有人问这是真人还是 AI 时就成功了"。
+
+**适用场景**：做 AI 真人感人像、短剧角色定妆、写真类账号的人。
+
+**怎么用它搞钱**：接"真人感 AI 人像"定制（写真、短剧定妆照），"毛孔＋微瑕"清单当验收标准按张收费；模板本身可做成付费提示词包。
+
+**来源**：[@iskunzhenbai（2026-11-20）](https://x.com/iskunzhenbai/status/2123726926942556323) · [@iskunzhenbai 动漫转真人版（2026-11-20）](https://x.com/iskunzhenbai/status/2123678229538205926) · 原帖出处
+
+### @iskunzhenbai 白模替换模板（角色一致性/真人化）
+
+**核心提炼**
+- 解决什么问题：白模先搭骨架、再换皮，角色多镜不出戏。
+- 核心用法（提示词原文大意）：把两名白模的皮肤、头部、五官、体型、背心和其他可见衣物，分别完整替换为图 1、图 2 中的脸、发型、肤质、体型、服装与饰物，直到结尾保持不变；背景替换成图 3。用法：白模视频＋两张人物参考图＋一张背景图，发给图生视频工具（作者回复称发给 Seedance，未经 API 核验）。
+- 关键在"分别完整替换"与"直到结尾保持不变"两句——前者防串脸串衣，后者锁全程一致。
+
+**适用场景**：AI 短剧/漫剧需要同一角色多镜不出戏的人；白模预演后上真人质感的创作者。
+
+**怎么用它搞钱**：接短剧角色一致性代做——白模＋替换模板当标准流程，按镜或按集收费。
+
+**来源**：[@iskunzhenbai（2026-11-20）](https://x.com/iskunzhenbai/status/2123773557935321351) · 原帖出处
+
+### @LZhou45682《非凡之爱》镜头语言与 AI 动画五步工作流（电影感打磨）
+
+**核心提炼**
+- 解决什么问题：AI 动画看着假，常不是画风问题，是镜头语言与一致性没做到。
+- 核心用法（两招转场）：①移步换景——提示词写"镜头横向推进/人物沿路径行走"，角色边走边换景，空间随行进展开；②匹配剪辑——前后镜头用相似形状/动作/颜色衔接（如圆灯切圆月、伸手接东西），剪辑点藏进视觉连续性。注意：标题称 5 种转场，API 全文只写出 2 种，Part 03 缺失。
+- 核心用法（五步工作流）：①剧本分镜先行（景别/角度/光影/情绪写细）；②角色场景定妆（正面/侧面/45° 定妆照锁五官发型服装配色，即梦角色锁定/Krea 参考图）；③关键帧先行——每镜先出 1-2 张关键帧定调，相当于先做一部"静帧电影"再动；④分镜图生视频，每镜只生成 5-10 秒短片再拼；⑤后期统一调色（AI 各镜色调会飘，后期统一是最后 10% 决定 80% 质感）。
+- 工具图谱：Midjourney 8.2、Seedream 5.0、即梦（角色/场景），Seedance 2.5、Kling 3.0、Sora 2、Runway Gen-4、Krea 3（视频），Premiere/剪映/CapCut（后期）。
+- 什么时候用 / 常见坑：文中播放量数据（B 站 1525 万等）为作者说法，未独立核验；Part 05 品牌营销机会与 Part 06 创作本质思考非方法，已略去。
+
+**适用场景**：做 AI 动画短片、漫剧、品牌动画的人；画面总被说"一眼 AI"的创作者。
+
+**怎么用它搞钱**：接 AI 动画短片定制——"定妆照＋关键帧＋五步工作流"当交付标准；把"移步换景/匹配剪辑"做成转场模板包卖给同行。
+
+**来源**：[@LZhou45682（2026-11-21，X Article）](https://x.com/LZhou45682/status/2123835191450079707) · 原帖出处
+
+### @swordBluesy Grok 语音挑声音五声法（先列清单再挑声音）
+
+**核心提炼**
+- 解决什么问题：语音助手一开口就露馅，问题不在模型，在没挑声音。
+- 核心用法（Grok 语音 API 内置 5 个声音）：夏娃（热情活泼，默认）、阿拉（温暖友善）、雷克斯（自信清楚）、萨尔（顺滑平衡）、里奥（权威有力）。方法：①先调 List voices API 列出可用声音，确认编号真的在线上（名单会变，编号抄错一个字母请求就被退回）；②按场景挑：客服沉稳、教学权威、陪聊温暖；③单条 TTS 先试听（文字＋声音编号＋语言必填），听着不对就换；④再写进实时会话 session.update（voice＋instructions＋服务端 turn detection）或 TTS 请求。
+- 翻车清单：预设声音当万用、手机语音模式与 API 名单混用、密钥放进浏览器网页（改发临时凭证）、自订声音一开始就做（内置五个先挑）。
+- 什么时候用 / 常见坑：底线是内置声音是模型声音，拿去冒充真人不在此篇；价格原文没写，动手前先查官方价目；作者称依据 xAI 官方文档（METAGROK，原文发表 2026-11-19）。
+
+**适用场景**：做 AI 语音助手、短剧/短视频配音、客服与教学语音的人。
+
+**怎么用它搞钱**：接 AI 语音助手搭建单——"先列清单、按场景挑声音、试听验收"当交付流程；短剧配音按角色定声音档案收费。
+
+**来源**：[@swordBluesy（2026-11-21）](https://x.com/swordBluesy/status/2123876802255085961) · 原帖出处
+
+### wx5352/AI-Human
+
+**核心提炼**
+- 解决什么问题：改写工具要么黑盒、要么只给文本没有检测反馈。它是一个可自托管的去味 Web 应用：改写＋检测评分在同一个界面里，改完马上知道分数变没变。
+- 核心用法（3 步）：1) 部署：Next.js 16 全栈，填 OpenAI API key 与 Google OAuth 凭据后 `npm run dev`，生产可用 Vercel＋PostgreSQL；2) 改写：粘贴文本，选 Ghost 4.0（正式学术扰动：换正式词、重组逻辑连接、名词化改写）或 Ghost 4.1（自然口语扰动：主被动切换、口语过渡注入、抽象概念具体化、标点打散）；3) 检测：内置启发式检测器按词汇/结构/流畅度/语态打分，另有 Dashboard 看用量与历史结果。
+- 什么时候用 / 常见坑：作者定位是"检测对抗研究原型"（研究检测器弱点、为内容溯源与合规治理提供实验依据），不是成品 SaaS；需要自己配 key 与 OAuth，README 标注 MIT（GitHub API 未识别 LICENSE）。
+
+**适用场景**：想自己搭一个"改写＋检测评分"的去味工具的内容团队或独立开发者；研究检测器行为的人。
+
+**怎么用它搞钱**：把这套"改写＋检测评分"部署成自己的去味服务，按量收费；检测评分报告可作改稿服务的交付证据。
+
+**来源**：[wx5352/AI-Human](https://github.com/wx5352/AI-Human) · ⭐161 · README 标注 MIT（API 未识别） · 更新于 2026-11-07
+
+### haidrrrry/humanize-ai-writing
+
+**核心提炼**
+- 解决什么问题：去味规则只装在 Claude skill 里，换 ChatGPT/Gemini/Grok 就用不上。它把同一套规则做成"到处都能贴"的形态。
+- 核心用法（3 件）：1) 粘贴版系统提示词 PROMPT.md：约 40 条 AI 痕迹禁令，源自维基 Signs of AI writing（禁 delve/tapestry/"not just X but Y"/破折号泛滥/假 significance/三段式排比等），贴进 ChatGPT、Gemini、Grok、Kimi、DeepSeek 的自定义指令就能用；2) Claude skill 版：SKILL.md＋ai-tells.md＋rewrite-rules.md，一键安装脚本，`/humanize-ai-writing` 触发；3) 零依赖 CLI 扫描器：`node bin/humanize-check.mjs 草稿.md`，逐行标出 AI 痕迹与改法，可接 CI 或 pre-commit。
+- 什么时候用 / 常见坑：定位诚实——去的是人眼可见的 slop，不承诺过检测器（检测器测的是 token 统计，是另一回事）；与库内 blader/humanizer 同源（都是维基特征清单），本条新意在跨聊天机器人便携形态＋扫描器＋CI 模板，不重复收规则本身。
+
+**适用场景**：多模型混用（ChatGPT＋Claude＋Gemini）的内容创作者；想把去味检查接进 CI 的团队。
+
+**怎么用它搞钱**：把"粘贴版提示词＋扫描器"做成跨模型去味服务，按号收费；扫描报告当改稿交付证据。
+
+**来源**：[haidrrrry/humanize-ai-writing](https://github.com/haidrrrry/humanize-ai-writing) · ⭐27 · MIT · 更新于 2026-11-17
+
+### marian-kamenistak/linkedin-post-writing-skill
+
+**核心提炼**
+- 解决什么问题：LinkedIn 帖子一眼 AI——太顺、太平衡、太小心。作者把自己每周 3 帖的整套写法开源成 skill。
+- 核心用法（4 个文件）：LinkedIn_SKILL.md（声音档案＋40+ 禁词＋帖子类型＋2026 算法策略＋发布前检查清单）、anti-ai-writing-guide.md（8 部分反 AI 写作指南：词汇/结构/语气/格式/开头结尾/内容模式，附对照改写）、LinkedIn_POST_EXAMPLES.md（真实帖子样本校准声音）、linkedin-weekly-system.md（每周流程：周日规划、周二三四写作、Notion 待写池）；另附 SETUP_GUIDE（从零搭自己的声音档案：拿 5–10 篇自己最好的帖子提炼语气/句式/常用词/绝不用词/开头结尾/格式习惯）与记忆种子。
+- 什么时候用 / 常见坑：反 AI 检测层抓 40+ 词汇特征、10+ 结构模式、6 类语气问题，每帖过 6 步质量门；作者明确提醒：文件按他本人声音校准（直接、对抗、教练风），照搬会像他不像你，必须先换自己的声音档案再用。
+
+**适用场景**：在 LinkedIn 做英文内容、想让 AI 辅助的帖子听起来像真人写的职场/创业者；要给团队定每周发帖流程的人。
+
+**怎么用它搞钱**：按这套"声音校准＋反 AI 检查＋每周流程"帮客户搭 LinkedIn 写作系统，收搭建费；代运营用"每帖过 6 步质量门"当交付标准。
+
+**来源**：[marian-kamenistak/linkedin-post-writing-skill](https://github.com/marian-kamenistak/linkedin-post-writing-skill) · ⭐53 · MIT · 更新于 2026-11-14
+
+### Smith-2758/Humanizer-zh-academic
+
+**核心提炼**
+- 解决什么问题：通用去味 skill 改学术写作容易改过头——要么太口语、要么把严谨改没了。它是面向中国大学生的中文学术去味 skill。
+- 核心用法（交互式）：先贴原文，Agent 自动确认两个参数再改——语气严肃度（低/中/高）与角色（课程论文作者/毕业设计作者/实验报告作者/答辩陈述稿作者，或自定义）；规则专治学术卖弄、机械句法、空洞总结与高危排版，重点压模板化结论句、过匀句式与标准答案结构；另有网页版（自备 API key，不提供模型额度）。
+- 什么时候用 / 常见坑：明确源自 op7418/Humanizer-zh 定向重构（库内已收录），本条新意在学术学生场景＋交互确认参数，不重复收规则本身；只做课程论文/实验报告/毕业设计/答辩稿四类学术写作。
+
+**适用场景**：写课程论文、实验报告、毕业设计、答辩稿的中国大学生；帮学生改稿的人。
+
+**怎么用它搞钱**：学术写作润色服务——"严肃度＋角色确认后再改"当流程，按篇收费；"去 AI 味但保留学术严谨"可作学生向代写卖点。
+
+**来源**：[Smith-2758/Humanizer-zh-academic](https://github.com/Smith-2758/Humanizer-zh-academic) · ⭐30 · MIT · 更新于 2026-11-04
+
+### xcLee001/SonicVale
+
+**核心提炼**
+- 解决什么问题：AI 短剧每段单独生成，同一个角色每段声音都不一样，一听就穿帮。它是开源多角色多情绪配音平台：给每个角色绑一个音色，全集共用，声音前后就统一了。
+- 核心用法（4 步）：1) 导入剧本/小说文本，LLM 自动拆台词（标谁说、什么情绪、多强，拆错可手动改）；2) 给每个角色绑一个音色（底层 IndexTTS，音色与情绪分开、可控时长）；3) 一键批量生成，单句不满意可重配，生成后音频可编辑（删片段、加静音）；4) 导出音频与字幕；漏配台词导出会失败，正好帮你查漏。
+- 什么时候用 / 常见坑：Electron＋Vue 桌面应用，需自己跑 IndexTTS 服务（本地显卡或云端），目前主要是 Windows；AGPL-3.0，商用需书面授权；声音克隆红线：只用自己或明确授权的音色（Miller 原文提醒）。
+
+**适用场景**：AI 短剧/漫剧多角色配音；小说/剧本批量配音的人。
+
+**怎么用它搞钱**：接短剧配音单——"每角色绑同一音色＋批量生成"当流程，按集收费；多角色配音可打包进短剧代制服务。
+
+**来源**：[xcLee001/SonicVale](https://github.com/xcLee001/SonicVale) · ⭐653 · AGPL-3.0 · 更新于 2026-11-20 · X 介绍：[@TuyetloanP81840（2026-11-19）](https://x.com/TuyetloanP81840/status/2123328212700893554)
+
 ## 更新日志
+
+- 2026-11-21（早档）：新增 11 条——X 6 条（@TuyetloanP81840 Miller 短剧后期去廉价感：八项体检＋对白 -16 LUFS＋配乐 -27 LUFS＋2.4:1 裁切＋同一 LUT 80%＋字幕文稿匹配，Article 全文已读；@AJCreatesAI 超写实真人四视图资产表：左 1/3 面部特写＋右 2/3 正/侧/背三视图、面部白遮盖只认特写一张脸，帖尾 Seedance API 推广为广告；@iskunzhenbai 真人感手机摄影提示词：iPhone 原相机＋毛孔绒毛＋化妆微瑕＋禁塑料感，动漫转真人版合并计 1 条，提示词原文草帽前后矛盾已注明；@iskunzhenbai 白模替换模板：两图换脸换衣＋背景换图 3、"直到结尾保持不变"锁一致；@LZhou45682《非凡之爱》镜头语言与五步工作流：移步换景＋匹配剪辑＋定妆照＋关键帧静帧电影＋分镜 5-10 秒＋后期统一调色，标题称 5 种转场实际只写出 2 种、Part 03 缺失，播放量数据未独立核验；@swordBluesy Grok 语音挑声音五声法：夏娃/阿拉/雷克斯/萨尔/里奥按场景挑、先列清单再试听，冒充真人不在此篇）；GitHub 5 个（wx5352/AI-Human 161★ README 标注 MIT：自托管改写＋检测评分 Web 应用，Ghost 4.0/4.1 双模式；haidrrrry/humanize-ai-writing 27★ MIT：跨聊天机器人粘贴版提示词＋Claude skill＋零依赖扫描器，与 blader/humanizer 同源不同形态；marian-kamenistak/linkedin-post-writing-skill 53★ MIT：LinkedIn 人声帖子系统，声音校准＋40+ 禁词＋每周流程，须换自己的声音档案；Smith-2758/Humanizer-zh-academic 30★ MIT：大学生学术去味交互式 skill，严肃度＋角色确认后再改，源自 Humanizer-zh；xcLee001/SonicVale 653★ AGPL-3.0：多角色多情绪配音平台，每角色绑同一音色，经 @Miller 帖引入，商用需书面授权）；另刷新 23 个老条目 star（blader/humanizer 65996→71674、lieflat-less-ai-tone 6819→8389、Humanizer-zh 22212→23433、sepia 3678→3912、shuorenhua 2526→2725、lieflat-gongwen 2447→2656、KKKKhazix/human-writing 4464→4684、theclaymethod/unslop 1006→1191、AIWriteX 2223→2301、StealthHumanizer 205→228、humanize-text 3485→3522、FeedHive 101→112、OUBIGFA 958→989、chinese-ai-humanizer 87→90、quiron 65→67、humanize-text-skill 243→245、mshumer/unslop 561→571、MohamedAbdallah-14/unslop 182→195、asavvin-pixel/unslop 86→89、woerndl/unsloppify 29→31、best-humanizer-handbook 367→364 微降，slopornot 与 badmuriss/unslop 不变）；未收：@deedee_kon45120 unslop UI 设计类（按 10-26/11-08 先例不收）、@nmyx888 介绍 lieflat-less-ai-tone（库内已收，不重复计）；暂缓：SpeedAI-team/HumanizerAI 130★（商业降 AIGC 率 API 服务文档，无开源工具本体）、sanjaysah101/humanize-ai 65★（黑客松演示，README 薄）、chengez/Adversarial-Paraphrasing 55★（论文实现）、QJHWC/PaperForge 643★（论文写作全系统，非去味工具）
 
 - 2026-11-08（晚档）：新增 5 条——X 5 条（@JunCoi7d 公众号 AI 写作三齿轮流程：选题自动化 + 事实素材库 + 四类框架脱水骨架 + 五条人设硬规则 + 三遍自检，浏览器版"10 篇爆文 / 100 条留言 / 30 字大白话 / 每句 20 字"等说法在 Article 全文中均不存在，已按原文纠正；@0xAiKang 论文解读：NYU + UT Austin《Why is AI-generated language so hard to understand?》arXiv:2610.29162 六类难懂特征 + 均匀信息密度 + Qwen 长度惩罚实验超 98% 倒向省略版，浏览器版六类特征清单与"AI 味有增无减"结论均与原文相反已纠正（Opus 5.5 在 21 项对比里 19 项更低即更会说人话），模型数量原帖称 14 个、arXiv 摘要为 9 个已注明，"PPI / HTVRL 方法"原文中未找到不采用；@TianQi_Do "语气档案"：DeepSeek 聊天记录 + 自己文章学语气，每条特征至少两处证据，细节来自配图仅浏览器侧读取，出自设计 Skill 插件连串帖子、写作功能故收录；@AINeverTires 60 多篇多 Agent 创作流程：五件套规范体系 + 人味语感把关 + Gemini 3.8 Flash 写初稿 + RefactorLens 单页原位比对，浏览器版"Clawdbot 选题 / Haiku + Opus 4.5 + Sonnet 4.5 分工"与原文不符已纠正；@Nexuessy Grok 文本水印检测侧情报：11 月 7 日起指定 Grok API 模型默认启用，调选词概率留统计特征，短文本溯源不准、改写后不保证可识别，官方文档说法未独立核验）；未收：@bencongyyds 一句话回复无方法细节、@Nami1u7b 通用写作 Skill Content Research Writer 仅一句保留个人风格（未给 GitHub 链接）、@web3xiaoZ 与 @ibx1112599 转述 lieflat 实验无新增方法、unslop UI 类与 @FancyKlar 设计类去味按 10-26 先例不收、@mr_easonyang 判断小游戏设想、@sayone 提问、@HRJobDiary 吐槽均无方法
 
