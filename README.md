@@ -434,7 +434,7 @@
 
 **怎么用它搞钱**：把"Gemini 导入 + 规则复述核对 + review/refactor + 终检四问"做成可交付的改稿工作流，帮客户或团队搭 Gemini 改稿管线，按次或按号收费。
 
-**来源**：[@maverick156239（2026-10-26，X Article）](https://x.com/maverick156239/status/2114628410882625784) · Sepia 上游：[Nanako0129/sepia](https://github.com/Nanako0129/sepia) · ⭐3912 · MIT · 更新于 2026-11-20；Sepia skill 本身本库已收录（@shenxiankk 条目），本条新意在 Gemini 导入实操，不重复收 skill 本体
+**来源**：[@maverick156239（2026-10-26，X Article）](https://x.com/maverick156239/status/2114628410882625784) · Sepia 上游：[Nanako0129/sepia](https://github.com/Nanako0129/sepia) · ⭐3913 · MIT · 更新于 2026-11-21；Sepia skill 本身本库已收录（@shenxiankk 条目），本条新意在 Gemini 导入实操，不重复收 skill 本体
 
 ### @Lonely__MH AI 写作去 AI 味四步法（口述想法 → 大纲 → 风格成稿 → 复查定稿）
 
@@ -460,7 +460,7 @@
 
 **怎么用它搞钱**：接"AI 味检测 + 最小改动精修"服务，检测报告 + 复测报告当交付证据；按号做"去 AI 味质检"打包进代写管线。
 
-**来源**：[@lieflat_3（2026-11-05，X Article）](https://x.com/lieflat_3/status/2118355780474937831) · Skill 开源：[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) · ⭐8389 · 暂无 LICENSE（API 未识别） · 更新于 2026-11-21（star 与更新时间均经 API 核验）
+**来源**：[@lieflat_3（2026-11-05，X Article）](https://x.com/lieflat_3/status/2118355780474937831) · Skill 开源：[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) · ⭐8466 · CC BY-NC 4.0（LICENSE 文件直读确认，GitHub API 未识别） · 更新于 2026-11-21（star 与更新时间均经 API 核验）
 
 ### @27huff 把"AI 味"拆成 21 张规则卡（可视化调教法）
 
@@ -906,7 +906,53 @@
 
 **来源**：[xcLee001/SonicVale](https://github.com/xcLee001/SonicVale) · ⭐653 · AGPL-3.0 · 更新于 2026-11-20 · X 介绍：[@TuyetloanP81840（2026-11-19）](https://x.com/TuyetloanP81840/status/2123328212700893554)
 
+### @KysonBuilds 去"抛光套话"：先让 AI 面试你，再建一份四层上下文文件
+
+**核心提炼**
+- 解决什么问题：同一个模型、同一条提示词，别人拿走能直接用的东西，你只拿到"抛光套话"——问题不在模型，在 AI 对你一无所知，只能给"陌生人答案"。作者自测：10 秒检验——把 AI 的回答原样抄给一个陌生人，如果对方也觉得合理，就是陌生人答案。
+- 核心用法（轻修复，5 步，今晚就能跑）：1) 用一句话、平实诚实地写清目标；2) 提示词末尾贴一段"面试式提示词"："Before you answer, ask me up to 5 questions—one at a time—to figure out what you need to do a great job on this. Do not start answering until I've replied to all of them."（最多 5 个问题、一次问一个，答完再开始；缺了"答完再开始"这句，模型问一个问题就会直接把全文写完）；3) 像对一位精明的顾问说话那样回答，尤其要说出尴尬的约束——藏起来的限制正是让建议翻车的那一个；4) 让 AI 把每条建议标注它所依赖的具体约束，锚定在你的现实里；5) 最终决定自己做。作者称只这一招就解决 80% 的"陌生人答案"问题。
+- 核心用法（重修复，上下文文件，只建一次）：同一场"面试"每周重复出现，就是建文件的信号。文件分 4 层——第 1 层 Hard Facts（做什么、住哪、用什么工具、预算、可用时间，可验证的事实，变了就改一行）；第 2 层 Your Own Words（你的规则、品味、已做的决定，每条带日期，因为决定会过期，这一层压过下面所有层）；第 3 层 AI's Guesses（Quarantined）（AI 久了总结出的你的风格与偏好，一半是洞察、一半是自信的幻觉，单独隔离、标"未验证"，你签字前不得升格为事实）；第 4 层 Open Gaps（还没决定的事、矛盾、空白，留白写出来——有诚实空白的文件是安全的，AI 知道该问而不是瞎编）。存本地、归自己所有，不依赖平台自带记忆（平台记忆是平台的格式、锁在平台设置里，换工具就带不走）。
+- 什么时候用 / 常见坑：作者自己的配置是 7 个小文件（1 个总览 + 4 个领域模块 + 1 个未验证附录 + 1 个纯事实日志），每天开工先读；两条诚实提醒：文件会过期，拿去年的约束 100% 自信地执行比什么都不给更糟，只提拔自己亲批的结论；文件很敏感（基本就是你本人），只存本地、只传到你选的地方。核心规则：AI 是执行层，不是判断层——"上下文让执行更忠实，但造不出品味；你自己的标准模糊，上下文文件只会把模糊放大，还用的是你自己的声音。"
+
+**适用场景**：写文章、做决策、跑任何"AI 写得都对但没法用"的任务；想一套上下文多工具复用的人。
+
+**怎么用它搞钱**：接"AI 写作/决策去套话"咨询——按"面试式提示词 + 四层上下文文件"搭一套可复用的个人上下文包，按次或按月收费；把这套文件做成模板卖给同行。
+
+**来源**：[@KysonBuilds（2026-11-21，X Article 全文已读）](https://x.com/KysonBuilds/status/2124005346133852588) · Article：[You're Paying for the Smartest AI on Earth—So Why Does It Still Hand You "Polished Fluff"?](https://x.com/i/article/2123992065121869824)
+
+### @CraftsmanTiktok Instagram 一把手去 AI 味：攒"差值数据"，不是写更好提示词
+
+**核心提炼**
+- 解决什么问题：开箱即用的模型本质是"互联网的平均值"，直接问、直接用，拿到的必然是最平庸的版本。AI 味不是模型笨，是它还没学过你。
+- 核心用法（邮件循环，3 步）：1) AI 起草，放进草稿箱，不直接发；2) 他逐封修改，改完再发；3) 每天收工，AI 把草稿和实发版逐封对比，学差值。刚开始 AI 写得非常泛、他几乎要重写；跑了一段时间，它连他的语气、取舍、甚至日程习惯都学进去了。原话：设定好就不用管了，不用每次手动给反馈。
+- 核心用法（会议简报，流程改法）：第一版简报他评价是垃圾——"只是多了些要读的东西，对我帮助为零"。写更长的提示词没用，他改的是流程：会后把 PM 的行动项邮件、AI 会议纪要、他自己的笔记、相关 Slack 全喂回去，让简报对照真实结果给自己打分——你说的三件大事，会上到底谈没谈。一两个月，简报从浪费时间变成真有用。
+- 核心用法（普通人能直接抄的 4 步）：1) AI 只起草，你改、你发，初稿永远别直接用；2) 每周把"你改过的地方"汇总一遍：总删哪些词、总改哪种语气、总补哪些信息；3) 把这张差值清单固化成规则，下次起草前先喂给它读；4) 任何 AI 产出，别只改提示词，加一步事后对答案、给它打分。
+- 什么时候用 / 常见坑：作者判断——接下来拼的不是谁的提示词写得花，是谁先攒出自己的差值数据；工具每月都在变，"你改过什么"这份数据跟着你走、换哪个工具都带得走。文中另提两个零件（Roger：跨会议/邮件/Slack 追踪他提的要求与别人答应过的事，到期未交付提醒催办；Custodian：一层跨工具共享记忆，换工具不丢上下文）与播客原话（11 月 17 日播客，Adam Mosseri，Instagram 负责人）均为博主拆解转述，Mosseri 原话未独立核验。
+
+**适用场景**：每天要发大量邮件/简报的创作者与团队负责人；想把个人风格沉淀成可复用资产的人。
+
+**怎么用它搞钱**：接"个人风格差值库"搭建服务——帮客户跑两周草稿→实发对比，交付一套差值规则 + 每周复盘流程，按项目收费；把这套循环做成 SOP 卖给内容团队。
+
+**来源**：[@CraftsmanTiktok（2026-11-21）](https://x.com/CraftsmanTiktok/status/2124013030480781728) · 播客拆解：Adam Mosseri 11 月 17 日播客
+
+### @lovethelife2333 对话式写作：先和 AI 聊天想清楚，再让它整理成文
+
+**核心提炼**
+- 解决什么问题：让 Agent 直接写文章，出来的东西结构完整、语言通顺，但观点不属于你——因为你自己还没想清楚。AI 味的根子有时不是表达，是内容本身没有你的思考。
+- 核心用法（方法，源自 X 博主「小晚不在」《ChatGPT 保姆级写作教程｜从源头解决人机感和 AI 味》）：不要一开始就让 AI 写文章，而是先和 ChatGPT 聊天——聊自己的经历、最近的发现、对某件事的看法，让 AI 参与讨论，在交流中逐渐梳理想法；等真正想表达的东西清晰之后，再让 AI 整理成文章。
+- 核心用法（作者实测，"搜商"案例）：从一个观察出发（很多人能上网，却没有主动搜索现成资源的习惯）→ 多轮讨论形成定义、讨论价值、明确边界（搜商应主要关注信息的搜索、判断与利用，AI 一度想把它扩展到创造力和商业机会发现，被他按住：概念边界要收窄，商业机会识别属于商业认知）→ 最后才让 AI 整理成文。作者结论：通过对话形成的文章，更容易保留自己的想法，而不是让 AI 替你编一套看似完整的观点。
+- 为什么有效（作者的技术解释）：ReAct 是"推理→行动→观察→再推理"的反馈循环；AutoGPT 式全自主 Agent 易陷入无意义循环、偏离目标，自主性不代表可靠性；Manus/Harness 的关键是上下文工程与反馈校验——系统决定在不同阶段给模型哪些信息、用什么工具、如何检验结果。对话式写作里，人承担了上下文管理、方向控制和结果评价，相当于一种人工参与的 Harness：人不断提供想法、经历、偏好和判断，AI 回应后人决定哪些值得继续、哪些理解错了、哪些需要修正。
+- 什么时候用 / 常见坑：作者自述——这只是他结合 Agent 技术发展和自身写作体验形成的解释，并不能证明某种写作方式必然优于另一种；对话不能保证一定写出好文章，作者自己的思考质量仍是上限。适用边界：目标明确、评价标准清晰的任务（编程、批量处理）适合交给 Agent 自主执行；目标尚未明确、需要个人判断和思想探索的任务（个人写作）更适合持续对话。写作有时不是把想好的答案表达出来，而是通过表达本身来思考。
+
+**适用场景**：写观点文、专栏、个人思考类内容的人；觉得 AI 写的东西"都对但不是我想说的"的作者。
+
+**怎么用它搞钱**：接"对话式写作陪跑"服务——按"多轮讨论定观点→再整理成文"带客户出一篇有个人观点的文章，按篇收费；把这套流程做成写作课/工作坊。
+
+**来源**：[@lovethelife2333（2026-11-21，X Article 全文已读）](https://x.com/lovethelife2333/status/2124034352128364545) · 方法出处：X 博主「小晚不在」《ChatGPT 保姆级写作教程｜从源头解决人机感和 AI 味》
+
 ## 更新日志
+
+- 2026-11-21（午档）：新增 3 条——X 3 条（@KysonBuilds 去"抛光套话" Article 全文已读：5 步"面试式提示词"（最多 5 问、一次一问、答完再开始）+ 四层上下文文件（Hard Facts / Your Own Words / AI's Guesses 隔离未验证 / Open Gaps 留白），AI 是执行层不是判断层，13:01；@CraftsmanTiktok Mosseri 差值循环去 AI 味：草稿→实发逐封对比学差值 + 每周汇总改动固化成规则 + 事后对答案打分，播客拆解转述（11 月 17 日播客）未独立核验 Mosseri 原话，浏览器版"3 步落点"（每天 3–4 封邮件练习/100 字风格画像）在 API 原文未见，已按原文四步纠正，13:32；@lovethelife2333 对话式写作 Article 全文已读：先聊天想清楚再让 AI 整理成文（引自「小晚不在」教程），人做上下文管理/方向控制/结果评价 = 人工参与的 Harness，搜商案例，作者自述仅为个人解释不证明更优，14:57）；另刷新 2 个老条目 star（Nanako0129/sepia 3912→3913、larashero3-dotcom/lieflat-less-ai-tone 8389→8466）并纠正 lieflat LICENSE 为 CC BY-NC 4.0（LICENSE 文件直读确认，GitHub API 未识别）；去重：@iBoyteam sepia 介绍与 @Zhibin992 lieflat-less-ai-tone 介绍均为库内已收项目重介绍，不重复计；剔除：AI 唱歌讨论、纯断言、学术代写广告、AI 写真/短片成片展示等均无方法细节或类目不符；10 组关键词×Latest＋6 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；覆盖至约 15:04，之后新帖不在本次范围
 
 - 2026-11-21（早档）：新增 11 条——X 6 条（@TuyetloanP81840 Miller 短剧后期去廉价感：八项体检＋对白 -16 LUFS＋配乐 -27 LUFS＋2.4:1 裁切＋同一 LUT 80%＋字幕文稿匹配，Article 全文已读；@AJCreatesAI 超写实真人四视图资产表：左 1/3 面部特写＋右 2/3 正/侧/背三视图、面部白遮盖只认特写一张脸，帖尾 Seedance API 推广为广告；@iskunzhenbai 真人感手机摄影提示词：iPhone 原相机＋毛孔绒毛＋化妆微瑕＋禁塑料感，动漫转真人版合并计 1 条，提示词原文草帽前后矛盾已注明；@iskunzhenbai 白模替换模板：两图换脸换衣＋背景换图 3、"直到结尾保持不变"锁一致；@LZhou45682《非凡之爱》镜头语言与五步工作流：移步换景＋匹配剪辑＋定妆照＋关键帧静帧电影＋分镜 5-10 秒＋后期统一调色，标题称 5 种转场实际只写出 2 种、Part 03 缺失，播放量数据未独立核验；@swordBluesy Grok 语音挑声音五声法：夏娃/阿拉/雷克斯/萨尔/里奥按场景挑、先列清单再试听，冒充真人不在此篇）；GitHub 5 个（wx5352/AI-Human 161★ README 标注 MIT：自托管改写＋检测评分 Web 应用，Ghost 4.0/4.1 双模式；haidrrrry/humanize-ai-writing 27★ MIT：跨聊天机器人粘贴版提示词＋Claude skill＋零依赖扫描器，与 blader/humanizer 同源不同形态；marian-kamenistak/linkedin-post-writing-skill 53★ MIT：LinkedIn 人声帖子系统，声音校准＋40+ 禁词＋每周流程，须换自己的声音档案；Smith-2758/Humanizer-zh-academic 30★ MIT：大学生学术去味交互式 skill，严肃度＋角色确认后再改，源自 Humanizer-zh；xcLee001/SonicVale 653★ AGPL-3.0：多角色多情绪配音平台，每角色绑同一音色，经 @Miller 帖引入，商用需书面授权）；另刷新 23 个老条目 star（blader/humanizer 65996→71674、lieflat-less-ai-tone 6819→8389、Humanizer-zh 22212→23433、sepia 3678→3912、shuorenhua 2526→2725、lieflat-gongwen 2447→2656、KKKKhazix/human-writing 4464→4684、theclaymethod/unslop 1006→1191、AIWriteX 2223→2301、StealthHumanizer 205→228、humanize-text 3485→3522、FeedHive 101→112、OUBIGFA 958→989、chinese-ai-humanizer 87→90、quiron 65→67、humanize-text-skill 243→245、mshumer/unslop 561→571、MohamedAbdallah-14/unslop 182→195、asavvin-pixel/unslop 86→89、woerndl/unsloppify 29→31、best-humanizer-handbook 367→364 微降，slopornot 与 badmuriss/unslop 不变）；未收：@deedee_kon45120 unslop UI 设计类（按 10-26/11-08 先例不收）、@nmyx888 介绍 lieflat-less-ai-tone（库内已收，不重复计）；暂缓：SpeedAI-team/HumanizerAI 130★（商业降 AIGC 率 API 服务文档，无开源工具本体）、sanjaysah101/humanize-ai 65★（黑客松演示，README 薄）、chengez/Adversarial-Paraphrasing 55★（论文实现）、QJHWC/PaperForge 643★（论文写作全系统，非去味工具）
 
